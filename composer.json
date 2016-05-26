@@ -1,8 +1,5 @@
 {
     "require": {
-        "slim/slim": "^3.0",
-        "nrk/predis": "^1.0",
-        "abouvier/slim-redis-cache": "*",
-        "La0/redislim": "*"
+        "slim/slim": "^3.0"
     }
 }
